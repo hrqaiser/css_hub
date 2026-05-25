@@ -1,0 +1,52 @@
+CSS Prep App allows users to delete their account and associated data directly from within the app.
+
+ In-App Account Deletion
+
+To delete your account:
+
+1. Open CSS Prep App.
+2. Go to Profile / Account section.
+3. Tap Delete Account.
+4. Confirm deletion.
+
+After confirmation, your account and associated app data will be deleted.
+
+ Request Account Deletion by Email
+
+If you no longer have access to the app, you may request account deletion by email.
+
+Please send your request to:
+
+hrqaiser@gmail.com
+
+Use the subject line:
+
+Delete My CSS Prep App Account
+
+Please include the email address used to create your CSS Prep App account.
+
+ Data Deleted
+
+When your account is deleted, the following data associated with your account may be deleted:
+
+- Firebase Authentication account
+- Name and email address
+- Learning progress
+- Test attempts and scores
+- Saved preferences
+- Evaluation history
+- Uploaded images or PDF files, where applicable
+
+ Data Retention
+
+Some limited technical or security logs may be retained temporarily if required for security, fraud prevention, legal compliance, or system integrity.
+
+ Processing Time
+
+Email-based deletion requests are normally processed within a reasonable period after verification.
+
+ Contact
+
+For account deletion or privacy-related questions, contact:
+
+your-support-email@example.com

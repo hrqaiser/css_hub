@@ -1,91 +1,34 @@
- 
+ Privacy Policy
 Last Updated: May 2026
-
 Welcome to CSS Prep App. Your privacy is important to us. This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application and related services.
-
 By using CSS Prep App, you agree to the practices described in this Privacy Policy.
-
-1. About CSS Prep App
-
+ 1. About CSS Prep App
 CSS Prep App is an educational platform designed to help candidates prepare for the CSS (Central Superior Services) Examination through learning materials, practice exercises, tests, performance tracking, and AI-assisted evaluation services.
-
  2. Information We Collect
-
 We may collect the following categories of information:
 
- Account Information
+ Account Information: When you create an account, we may collect your name, email address, profile photo (if provided), and authentication information through Google Sign-In or other supported login methods.
+ Educational Activity Data: While using the application, we may collect subject selections, learning progress, test results, practice attempts, performance statistics, evaluation history, and saved preferences.
+ Uploaded Content: If you use AI evaluation features, you may upload images, PDF documents, written answers, essays, notes, or other educational content. These files are processed solely for providing evaluation and feedback services.
+ Device and Technical Information: We may automatically collect device model, operating system version, application version, crash reports, diagnostic information, and anonymous usage analytics.
+ Advertising and Tracking Identifiers: To support our advertisement delivery, we or our advertising partners may automatically collect unique device identifiers including, but not limited to, the Google Advertising ID (AAID) on Android devices and the Identifier for Advertisers (IDFA) on iOS devices.
+ Communications: If you contact us for support, we may collect email correspondence, feedback, bug reports, and support requests.
 
-When you create an account, we may collect:
-
- Name
- Email address
- Profile photo (if provided)
- Authentication information through Google Sign-In or other supported login methods
-
- Educational Activity Data
-
-While using the application, we may collect:
-
- Subject selections
- Learning progress
- Test results
- Practice attempts
- Performance statistics
- Evaluation history
- Saved preferences
-
- Uploaded Content
-
-If you use AI evaluation features, you may upload:
-
- Images
- PDF documents
- Written answers
- Essays
- Notes or other educational content
-
-These files are processed solely for providing evaluation and feedback services.
-
- Device and Technical Information
-
-We may automatically collect:
-
- Device model
- Operating system version
- Application version
- Crash reports
- Diagnostic information
- Anonymous usage analytics
-
- Communications
-
-If you contact us for support, we may collect:
-
- Email correspondence
- Feedback
- Bug reports
- Support requests
-
-3. How We Use Your Information
-
+ 3. How We Use Your Information
 We use collected information to:
 
- Provide educational services
- Authenticate users
- Save learning progress
- Generate performance reports
- Deliver AI-based answer evaluation
- Improve learning recommendations
- Improve application functionality
- Fix bugs and technical issues
- Ensure platform security
- Respond to user inquiries
+ Provide educational services.
+ Authenticate users and save learning progress.
+ Generate performance reports and deliver AI-based answer evaluation.
+ Improve learning recommendations and application functionality.
+ Fix bugs, technical issues, and ensure platform security.
+ Serve and display advertisements, including banner ads and rewarded video ads.
+ Limit the frequency of advertisements shown to a single user (frequency capping).
+ Analyze and measure advertisement performance and user interaction.
+ Respond to user inquiries.
 
-4. AI Evaluation Services
-
-CSS Prep App may use third-party Artificial Intelligence services to evaluate answers and provide feedback.
-
-When you submit an image, PDF, or written response for evaluation:
+ 4. AI Evaluation Services
+CSS Prep App may use third-party Artificial Intelligence services to evaluate answers and provide feedback. When you submit an image, PDF, or written response for evaluation:
 
  The content may be securely transmitted to AI service providers.
  The content is used only for generating educational feedback.
@@ -93,130 +36,44 @@ When you submit an image, PDF, or written response for evaluation:
  AI-generated evaluations are intended for learning purposes and should not be considered official examination assessments.
 
 Users should avoid uploading sensitive personal information unrelated to educational evaluation.
+ 5. Data Storage
+User information may be stored on secure cloud infrastructure, in Firebase services provided by Google, or on the user's device for offline functionality. Reasonable technical and organizational safeguards are implemented to protect data from unauthorized access, disclosure, alteration, or destruction.
+ 6. Sharing of Information
+We do not sell, rent, or trade personal information. Information may be shared only under the following circumstances:
 
-5. Data Storage
-
-User information may be stored:
-
- On secure cloud infrastructure
- In Firebase services provided by Google
- On the user's device for offline functionality
-
-Reasonable technical and organizational safeguards are implemented to protect data from unauthorized access, disclosure, alteration, or destruction.
-
-6. Sharing of Information
-
-We do not sell, rent, or trade personal information.
-
-Information may be shared only:
-
- Service Providers
-
-With trusted service providers that help operate the application, including:
-
- Google Firebase
- Authentication providers
- Cloud hosting providers
- AI evaluation service providers
-
- Legal Requirements
-
-When required by law, regulation, court order, or governmental request.
-
- Protection of Rights
-
-To protect:
-
- Users
- The application
- Public safety
- Legal rights and security interests
+ Service Providers and Partners: With trusted service providers that help operate the application, including Google Firebase, cloud hosting providers, authentication providers, and AI evaluation service providers.
+ Advertising Partners: We share pseudonymous device identifiers (such as the Advertising ID) with third-party advertising networks, specifically Google AdMob, to deliver, personalize, and measure advertisements within the application.
+ Legal Requirements: When required by law, regulation, court order, or governmental request.
+ Protection of Rights: To protect users, the application, public safety, legal rights, and security interests.
 
  7. Children's Privacy
-
-CSS Prep App is intended for users preparing for competitive examinations and is not directed toward children under 13 years of age.
-
-We do not knowingly collect personal information from children under 13.
-
-If such information is discovered, it will be removed promptly.
-
-8. Data Retention
-
-We retain information only as long as necessary to:
-
- Provide services
- Maintain educational records
- Comply with legal obligations
- Resolve disputes
- Enforce agreements
-
-Users may request deletion of their account and associated data at any time.
-
+CSS Prep App is intended for users preparing for competitive examinations and is not directed toward children under 13 years of age. We do not knowingly collect personal information, including advertising identifiers, from children under 13. If such information is discovered, it will be removed promptly.
+ 8. Data Retention
+We retain information only as long as necessary to provide services, maintain educational records, comply with legal obligations, resolve disputes, and enforce agreements. Users may request deletion of their account and associated data at any time.
  9. Account Deletion
-
-In compliance with Google Play policies, users may delete their account directly from within the application.
-
-Upon deletion:
+In compliance with Google Play policies, users may delete their account directly from within the application. Upon deletion:
 
  Authentication credentials are removed.
  Associated user data stored by CSS Prep App is deleted or anonymized within a reasonable period unless retention is required by law.
  Certain technical logs may be retained temporarily for security and compliance purposes.
 
  10. Data Security
-
-We implement reasonable security measures including:
-
- Secure authentication
- Encrypted communication (HTTPS)
- Access controls
- Cloud security protections
- Monitoring and logging
-
-However, no method of electronic transmission or storage can be guaranteed to be 100% secure.
-
+We implement reasonable security measures including secure authentication, encrypted communication (HTTPS), access controls, cloud security protections, and monitoring/logging. However, no method of electronic transmission or storage can be guaranteed to be 100% secure.
  11. Third-Party Services
+The application integrates third-party services that may collect data used to identify you or serve personalized content. These providers maintain their own privacy policies governing their services:
 
-The application may use third-party services including but not limited to:
-
- [Google Firebase](https://firebase.google.com?utm_source=chatgpt.com)
- [Google Sign-In](https://developers.google.com/identity/sign-in?utm_source=chatgpt.com)
- AI evaluation service providers
- Analytics and crash reporting services
-
-These providers maintain their own privacy policies governing their services.
+ Google Firebase: google.com
+ Google Sign-In: https://developers.google.com/identity/sign-in
+ Google AdMob (Advertising): google.com and google.com
+ AI evaluation service providers and analytics/crash reporting services.
 
  12. Your Rights
-
-Depending on applicable laws, you may have the right to:
-
- Access your data
- Correct inaccurate information
- Delete your account
- Request data portability
- Object to certain processing activities
- Withdraw consent where applicable
-
-Requests may be submitted through the application's support channels.
-
+Depending on applicable laws, you may have the right to access your data, correct inaccurate information, delete your account, request data portability, object to certain processing activities, or withdraw consent where applicable. You may also opt-out of personalized advertising through your device system settings (e.g., "Opt out of Ads Personalization" on Android or "Limit Ad Tracking" on iOS). Requests may be submitted through the application's support channels.
  13. International Data Transfers
-
 Your information may be processed and stored on servers located in different countries where our service providers operate. Appropriate safeguards are implemented where required by applicable law.
-
-
  14. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time.
-
-Updated versions will be posted within the application and the revised "Last Updated" date will be changed accordingly.
-
-Continued use of the application after changes become effective constitutes acceptance of the updated policy.
-
-
-
+We may update this Privacy Policy from time to time. Updated versions will be posted within the application and the revised "Last Updated" date will be changed accordingly. Continued use of the application after changes become effective constitutes acceptance of the updated policy.
  15. Contact Us
-
 If you have questions regarding this Privacy Policy, requests concerning your data, or account deletion inquiries, please contact:
-
 CSS HUB App Support
-
 Email: hrqaiser@gmail.com
